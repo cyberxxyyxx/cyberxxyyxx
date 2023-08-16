@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT / Cyber Security 
 - 🌱 I’m currently learning Cyber Security 
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me: cyberxxyyxx@gmail.com
+- 📫 How to reach me: cyberxxyyxx@gmail.com / YouTube: @Silviu-cyberpanda
 
 <!---
 cyberxxyyxx/cyberxxyyxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
